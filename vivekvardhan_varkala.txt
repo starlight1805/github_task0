@@ -1,0 +1,14 @@
+git clone <remote repository path> - to clone remote repository to my local system
+cd <dir> - to change to the working directory
+git branch <branch_name> - creates a new branch
+git branch - to check which branch iam currently on
+touch <filename> - creates a new file
+git add <filename> - to change untracked files to tracked
+start <filename> - opens <filename>
+git switch <branch_name> - to switch to required <branch_name>
+git merge <branch_name> - merges <branch_name> with the current branch
+git mv <old_file_name> <new_file_name> - to change the name of a file
+git log - To know the contents inside
+git pull - to pull most recent changes from the remote repository
+git commit -m "message"
+git request-pull - pull request to the repo
